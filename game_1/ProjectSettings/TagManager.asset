@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - cave
+  - door
+  - artefact
+  - artefact1
+  - artefact2
+  - artefact3
+  - artefact4
+  - artefact5
+  - artefact6
+  - inventory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 793542585
+    locked: 0
+  - name: Trees
+    uniqueID: 3628059863
+    locked: 0
+  - name: Ground
+    uniqueID: 1375983661
+    locked: 0
+  - name: platforms
+    uniqueID: 3872332997
+    locked: 0
+  - name: artefacts
+    uniqueID: 1039532843
+    locked: 0
+  - name: health
+    uniqueID: 3290905897
+    locked: 0
+  - name: Enemy
+    uniqueID: 559946501
+    locked: 0
+  - name: Player
+    uniqueID: 3499990863
+    locked: 0
